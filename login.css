@@ -1,0 +1,21 @@
+body{
+    background-image: url("CSSweek2/images/4.png");
+}
+.navbar{
+    height: 60px ;
+    width: 90%;
+    background-color: black;
+    display: flex;
+    margin: 20px;
+    border-radius: 100px;
+    padding: 20px;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-around;
+}
+.logins{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+}
